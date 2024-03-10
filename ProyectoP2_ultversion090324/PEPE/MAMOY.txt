@@ -1,0 +1,10 @@
+★ENCABEZADO
+nombre: MAMOY
+creador(a): papoy
+fecha_creacion: 09/March/2024
+atributos: B1,B2
+
+★DETALLE
+1,2
+5,6
+5,6

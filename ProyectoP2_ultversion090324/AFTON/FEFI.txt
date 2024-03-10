@@ -1,0 +1,7 @@
+★ENCABEZADO
+nombre: FEFI
+creador(a): papoy
+fecha_creacion: 09/March/2024
+atributos: NOMBRE,BEB
+
+★DETALLE

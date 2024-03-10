@@ -1,0 +1,7 @@
+★ENCABEZADO
+nombre: K
+creador(a): papita
+fecha_creacion: 07/marzo/2024
+atributos: 1,2,3
+
+★DETALLE

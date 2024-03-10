@@ -1,0 +1,8 @@
+★ENCABEZADO
+nombre: BBCITA
+creador(a): papoy
+fecha_creacion: 09/March/2024
+atributos: SI
+
+★DETALLE
+NO
